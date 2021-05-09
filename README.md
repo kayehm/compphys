@@ -1,2 +1,1 @@
-# compphys
-Computational Physics
+Default template
